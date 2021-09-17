@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Easy-creator
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning computer engineering.
+- 👀 I’m interested in frontend web development
+- 🌱 I’m currently learning full stack web development.
 - 💞️ I’m looking to collaborate on backend development.
 - 📫 How to reach me WhatsApp +2349033768504.
 
