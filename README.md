@@ -16,7 +16,9 @@
 📫 You can reach me via WhatsApp at +2349033768504. Feel free to connect! 📲
 
 👨‍💻🌐 - Frontend web development
+
 🐍🌐 - Full stack Django development
+
 🎨💻 - API, HTML, CSS, JavaScript, Ajax
 
 <!---
