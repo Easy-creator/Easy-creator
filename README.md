@@ -17,7 +17,7 @@
 
 👨‍💻🌐 - Frontend web development
 
-🐍🌐 - Full stack Django development
+🐍🌐 - Full stack Django development (Django, DRF, Flask)
 
 🎨💻 - API, HTML, CSS, JavaScript, Ajax
 
